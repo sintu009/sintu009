@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SINTU KUMAR</h1>
+<h1 align="center">Hi 👋, I'm SINTU</h1>
 <h3 align="center">Eager to learn & have a deep dive into the ocean of new technologies, obtain a challenging position where I can contribute to the organization's success with my skills, and gain experience and knowledge as a fresher.</h3>
 
 
